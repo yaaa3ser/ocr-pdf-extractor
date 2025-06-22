@@ -55,3 +55,8 @@ docker-compose exec redis redis-cli
   - `claim_experiences.claims`: Claims DataFrame
   - `claim_experiences.benefits`: Benefits DataFrame
 - Data stored in Redis under the key `claim_experiences`
+
+
+## Samples displaying DataFrames
+![Sample Output](./samples/Screenshot%20from%202025-06-22%2019-54-56.png)
+![Sample Output 2](./samples/Screenshot%20from%202025-06-22%2019-55-18.png)
